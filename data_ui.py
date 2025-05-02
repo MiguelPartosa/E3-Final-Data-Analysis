@@ -83,7 +83,8 @@ fig_len_views = px.scatter(
     x="title_len",
     y="view_count",
     title="<b>Title Length vs. Views</b>",
-    template="plotly_white"
+    template="plotly_white",
+    trendline="ols"
 )
 
 
