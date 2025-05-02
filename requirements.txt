@@ -1,4 +1,4 @@
 plotly
 pandas
 numpy
-statsmodel==0.14.4
+statsmodels==0.14.4
